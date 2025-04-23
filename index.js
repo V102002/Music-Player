@@ -27,7 +27,7 @@ const songs=[
     {
         path:'assets/Opening3.mp3',
         displayName: 'Black Catcher',
-        cover:'assets/MusicCover3.png',
+        cover:'assets/MusicCover3.jpg',
         artist:'Vicke Blanka',
     },
 ];
